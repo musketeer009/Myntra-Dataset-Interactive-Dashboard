@@ -2,7 +2,7 @@
 This dashboard offers interactive charts, graphs, and filters to explore various aspects of the dataset including product categories, pricing trends, customer ratings, brand performance, and more.
 
 
-# 🚀Myntra Interactive Dashboard 
+## 🚀Myntra Interactive Dashboard 
 The Myntra Interactive Dashboard is a sleek, user-friendly offering deep insights into Myntra's product landscape. It helps businesses understand product performance, customer behavior, and brand positioning fast and effectively.
 
 
