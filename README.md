@@ -44,3 +44,4 @@ Forecast future trends using historical data.
 📊 Visual Insights: Pivot tables and charts for easy understanding.
 
 
+![Image](https://github.com/user-attachments/assets/b3860dfb-50dd-4b03-9012-bb8d2c5a323e)
